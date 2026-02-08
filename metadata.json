@@ -1,0 +1,9 @@
+{
+  "name": "Mou Builders - Premium Real Estate Bangladesh",
+  "description": "Mou Builders is a Bangladesh-based real estate and construction company specializing in Bashundhara Residential Area and nationwide development projects.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
